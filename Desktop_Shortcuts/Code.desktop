@@ -1,0 +1,29 @@
+[Desktop Entry]
+Name=Code - OSS
+Comment=Code Editing. Redefined.
+GenericName=Text Editor
+Exec=/usr/share/code-oss/code-oss --unity-launch %U
+Icon=/home/pi/RadioniceConfig/VS.png
+Type=Application
+StartupNotify=true
+StartupWMClass=Code - OSS
+Categories=Utility;TextEditor;Development;IDE;
+MimeType=text/plain;inode/directory;
+Actions=new-window;
+Keywords=vscode;
+
+X-Desktop-File-Install-Version=0.23
+
+[Desktop Action new-window]
+Name=New Window
+Name[de]=Neues Fenster
+Name[es]=Nueva ventana
+Name[fr]=Nouvelle fenêtre
+Name[it]=Nuova finestra
+Name[ja]=新規ウインドウ
+Name[ko]=새 창
+Name[ru]=Новое окно
+Name[zh_CN]=新建窗口
+Name[zh_TW]=開新視窗
+Exec=/usr/share/code-oss/code-oss --new-window %U
+Icon=/home/pi/VS.png

@@ -1,0 +1,12 @@
+promjenjene su ikone pitona u:
+
+/usr/share/applications
+
+(.desktop shortcuti) da bi bili lijepi i u taskbaru
+
+i za code-oss isto...
+
+python2.7.desktop
+python3.5.desktop
+idle-python2.7.desktop
+code-oss.desktop

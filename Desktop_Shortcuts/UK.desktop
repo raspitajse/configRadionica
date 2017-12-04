@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.1
+Name=UK
+Comment=Change to GB keyboard layout
+Exec=/home/pi/RadioniceConfig/UK.sh
+Icon=/home/pi/RadioniceConfig/UK.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+Name[en_GB]=UK

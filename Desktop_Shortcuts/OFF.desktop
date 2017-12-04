@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.1
+Name=Shutdown
+Comment=Poweroff Raspberry
+Exec=/home/pi/RadioniceConfig/OFF.sh
+Icon=/home/pi/RadioniceConfig/OFF.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+Name[en_GB]=Shutdown

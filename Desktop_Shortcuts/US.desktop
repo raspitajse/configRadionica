@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.1
+Name=US
+Comment=Change to US keyboard layout
+Exec=/home/pi/RadioniceConfig/USA.sh
+Icon=/home/pi/RadioniceConfig/USA.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+Name[en_GB]=US

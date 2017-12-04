@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.1
+Name=IP
+Comment=Change to HR keyboard layout
+Exec=/home/pi/RadioniceConfig/HR.sh
+Icon=/home/pi/RadioniceConfig/HR.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+Name[en_GB]=HR
